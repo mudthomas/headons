@@ -1,0 +1,6 @@
+.wp-block-navigation__responsive-container.hidden-by-default {
+	display: none;
+}
+.wp-block-navigation__responsive-container.hidden-by-default.is-menu-open {
+	display: block;
+}
